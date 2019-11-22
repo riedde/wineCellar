@@ -1,0 +1,13 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Wine Cellar App</description>
+    <author>Dennis Ried</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>wineCellar</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="admin" group="dba" mode="rwxrwxrwx"/>
+<deployed>2019-11-21T20:55:47.941+01:00</deployed></meta>

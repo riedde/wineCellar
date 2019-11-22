@@ -1,0 +1,11 @@
+/* Application styles could go here */
+
+.box {
+    width: 90%;
+  color: black;
+  background-color: lightgrey;
+  border:  2px solid darkblue;
+  border-radius: 0 1em 1em 1em;
+  margin:  20px auto;
+  padding: 2em;
+}

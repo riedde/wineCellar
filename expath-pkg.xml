@@ -1,0 +1,4 @@
+<package xmlns="http://expath.org/ns/pkg" name="http://my.wineCellar.de" abbrev="wineCellar" version="0.1" spec="1.0">
+    <title>Wine Cellar App</title>
+    <dependency package="http://exist-db.org/apps/shared"/>
+</package>
