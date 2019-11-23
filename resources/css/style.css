@@ -1,11 +1,42 @@
 /* Application styles could go here */
 
 .box {
-    width: 90%;
+  width: auto;
   color: black;
   background-color: lightgrey;
   border:  2px solid darkblue;
   border-radius: 0 1em 1em 1em;
-  margin:  20px auto;
-  padding: 2em;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 1.3em;
+  position:relative;
+}
+
+.row.box{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.beschriftung{
+    font-family: Merriweather;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.gang{
+    font-family: Montserrat;
+    font-size: 2.0em;
+    margin-bottom: 1.5em;
+}
+
+.info{
+    font-family: Merriweather;
+    font-size: 1.4em;
+    margin-bottom: 1.5em;
+    font-style:oblique;
+}
+
+td{
+    font-size: 1.4em;
 }
