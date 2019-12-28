@@ -5,8 +5,8 @@ Simple App to manage your stock
 For this app you need [eXist-db](http://exist-db.org/exist/apps/homepage/index.html).
 
 ## before build (pictures)
-* I you like to have some pictures or icons as thumbnails, you should create a folder and put them there **/wineCellar/resources/pics**
-* By default pictures with the following names will be included automatically
+* I you like to have some pictures or icons as thumbnails, you should create a folder (**wineCellar/resources/pics**) and put them there
+* Pictures with the following names will be used by default (if exists)
   * cool.png (freezer-icon)
   * empty.jpg (empty bottle)
   * red.jpg (red wine)
